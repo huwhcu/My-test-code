@@ -14,6 +14,9 @@
 		CC77111C1C07F56C00FE588E /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CC77111B1C07F56C00FE588E /* Images.xcassets */; };
 		CC77111F1C07F56C00FE588E /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = CC77111D1C07F56C00FE588E /* LaunchScreen.xib */; };
 		CC77112B1C07F56C00FE588E /* _0151127Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = CC77112A1C07F56C00FE588E /* _0151127Tests.m */; };
+		CC7711351C08095400FE588E /* 53727780_p0.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CC7711341C08095400FE588E /* 53727780_p0.jpg */; };
+		CC77116B1C084D4500FE588E /* 18954075.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CC77116A1C084D4500FE588E /* 18954075.jpg */; };
+		CC77116D1C084ECD00FE588E /* yande.re 316739 dress landscape skyt2 wings.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CC77116C1C084ECD00FE588E /* yande.re 316739 dress landscape skyt2 wings.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +43,9 @@
 		CC7711241C07F56C00FE588E /* 20151127Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = 20151127Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CC7711291C07F56C00FE588E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CC77112A1C07F56C00FE588E /* _0151127Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = _0151127Tests.m; sourceTree = "<group>"; };
+		CC7711341C08095400FE588E /* 53727780_p0.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 53727780_p0.jpg; sourceTree = "<group>"; };
+		CC77116A1C084D4500FE588E /* 18954075.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 18954075.jpg; sourceTree = "<group>"; };
+		CC77116C1C084ECD00FE588E /* yande.re 316739 dress landscape skyt2 wings.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "yande.re 316739 dress landscape skyt2 wings.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +102,9 @@
 		CC77110E1C07F56C00FE588E /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				CC77116C1C084ECD00FE588E /* yande.re 316739 dress landscape skyt2 wings.jpg */,
+				CC77116A1C084D4500FE588E /* 18954075.jpg */,
+				CC7711341C08095400FE588E /* 53727780_p0.jpg */,
 				CC77110F1C07F56C00FE588E /* Info.plist */,
 				CC7711101C07F56C00FE588E /* main.m */,
 			);
@@ -199,8 +208,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CC7711351C08095400FE588E /* 53727780_p0.jpg in Resources */,
 				CC77111A1C07F56C00FE588E /* Main.storyboard in Resources */,
 				CC77111F1C07F56C00FE588E /* LaunchScreen.xib in Resources */,
+				CC77116B1C084D4500FE588E /* 18954075.jpg in Resources */,
+				CC77116D1C084ECD00FE588E /* yande.re 316739 dress landscape skyt2 wings.jpg in Resources */,
 				CC77111C1C07F56C00FE588E /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -416,6 +428,7 @@
 				CC7711301C07F56C00FE588E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CC7711311C07F56C00FE588E /* Build configuration list for PBXNativeTarget "20151127Tests" */ = {
 			isa = XCConfigurationList;
@@ -424,6 +437,7 @@
 				CC7711331C07F56C00FE588E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
